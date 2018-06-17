@@ -1,0 +1,33 @@
+/* add your CSS here */
+#container{
+	width:300px;
+    border-style:solid;
+    border-width: 0.5px;
+    border-color:grey;
+    padding: 5px 5px;
+    box-shadow: 1px 1px 1px 1px;
+    margin:auto;
+}
+img{
+  width:300px;
+  margin:auto; 
+}
+#interesting-fact{
+font-style: italic;
+text-align: justify;
+}
+.features{
+font-weight:bold;
+}
+#facts{
+list-style:none;
+ padding-left: 1px;
+  margin:auto;
+}
+#card{
+border-width: thin;
+border-style:solid;
+padding: 5px 5px;
+margin: auto;
+text-align: justify;
+}
